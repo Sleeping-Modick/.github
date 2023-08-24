@@ -4,7 +4,7 @@
     <tr>
      <td align="center" valign="top" width="14.28%">
        <a href="https://github.com/Luna828">
-       <img src="https://avatars.githubusercontent.com/u/93186591?v=4" width="100px;" alt="Luna828"/>
+       <img src="https://avatars.githubusercontent.com/u/93186591?v=4" width="100px;" alt="김은경"/>
        <br />
          <sub>
            <b>김은경</b>
@@ -17,8 +17,8 @@
        <br />
      </td>
     <td align="center" valign="top" width="14.28%">
-       <a href="https://github.com/Luna828">
-       <img src="https://avatars.githubusercontent.com/u/93186591?v=4" width="100px;" alt="Luna828"/>
+       <a href="https://github.com/pinocchio22">
+       <img src="https://avatars.githubusercontent.com/u/61182499?v=4" width="100px;" alt="최진훈"/>
        <br />
          <sub>
            <b>최진훈</b>
@@ -31,8 +31,8 @@
        <br />
      </td>
       <td align="center" valign="top" width="14.28%">
-       <a href="https://github.com/Luna828">
-       <img src="https://avatars.githubusercontent.com/u/93186591?v=4" width="100px;" alt="Luna828"/>
+       <a href="https://github.com/dongglehada">
+       <img src="https://avatars.githubusercontent.com/u/112812473?v=4" width="100px;" alt="서준영"/>
        <br />
          <sub>
            <b>서준영</b>
@@ -45,8 +45,8 @@
        <br />
      </td>
       <td align="center" valign="top" width="14.28%">
-       <a href="https://github.com/Luna828">
-       <img src="https://avatars.githubusercontent.com/u/93186591?v=4" width="100px;" alt="Luna828"/>
+       <a href="https://github.com/z-wook">
+       <img src="https://avatars.githubusercontent.com/u/101041221?v=4" width="100px;" alt="한지욱"/>
        <br />
          <sub>
            <b>한지욱</b>
@@ -59,8 +59,8 @@
        <br />
      </td>
       <td align="center" valign="top" width="14.28%">
-       <a href="https://github.com/Luna828">
-       <img src="https://avatars.githubusercontent.com/u/93186591?v=4" width="100px;" alt="Luna828"/>
+       <a href="https://github.com/zzangzzangguy">
+       <img src="https://avatars.githubusercontent.com/u/122965360?v=4" width="100px;" alt="김기현"/>
        <br />
          <sub>
            <b>김기현</b>
@@ -73,8 +73,8 @@
        <br />
      </td>
       <td align="center" valign="top" width="14.28%">
-       <a href="https://github.com/Luna828">
-       <img src="https://avatars.githubusercontent.com/u/93186591?v=4" width="100px;" alt="Luna828"/>
+       <a href="https://github.com/jakkujakku">
+       <img src="https://avatars.githubusercontent.com/u/89556301?v=4" width="100px;" alt="김준우"/>
        <br />
          <sub>
            <b>김준우</b>
